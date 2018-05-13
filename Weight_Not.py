@@ -15,11 +15,11 @@ from PIL import Image
 #The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 #THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-consumerKey = 'hM1xXDUk2AfA7HsOaAxXlzM7w'
-consumerSecret = 'bj2GthZmyyeUZQSA7XnNELaJLY9JseVPycdgCIxM6PJ1ckfwZc'
-accessToken = '987576114011885570-ySAnYNTC2HdJAKAlYYuqg8AIgFFnAlB'
-accessTokenSecret = '4YL52tUrdVfBvwRqNJ1TmNN85RK0ZOcXIa2kJ7gwLohBG'
-#logins: ad.riaan.odendaal1@gmail.com wadriaan28
+#Keys redacted
+consumerKey = ''
+consumerSecret = ''
+accessToken = ''
+accessTokenSecret = ''
 
 auth = tweepy.OAuthHandler(consumerKey, consumerSecret)
 auth.set_access_token(accessToken, accessTokenSecret)
